@@ -1,0 +1,13 @@
+<svg width="500" height="500" viewBox="0 0 500 500" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Gedung Abu-Abu -->
+  <path d="M280 20 L280 480 L200 480 L200 140 L100 140 L100 120 L200 120 L200 20 Z" fill="#CFCFCF"></path>
+  
+  <!-- Gedung Biru -->
+  <path d="M380 100 L460 160 L460 480 L360 480 L360 420 L300 420 L300 100 Z" fill="#008CFF"></path>
+  
+  <!-- Pondasi Biru (kiri) -->
+  <rect x="40" y="280" width="140" height="200" fill="#008CFF"></rect>
+  
+  <!-- Pintu Kiri -->
+  <rect x="100" y="340" width="40" height="60" fill="white"></rect>
+</svg>
